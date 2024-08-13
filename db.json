@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "b55f",
+      "name": "Product ",
+      "price": "2000",
+      "description": "esfdg",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Product test name updated 2222",
+      "price": "10000",
+      "description": "sergfyggjyukjk",
+      "image": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/primary/ProductShowcasesampleimages/JPEG/Product+Showcase-1.jpg",
+      "id": "406a"
+    }
+  ]
+}
